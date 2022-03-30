@@ -11,3 +11,6 @@ tea_kettle = 1
 
 cake = false
 light = true
+
+friend = "Anita"
+co_worker = "Natalia"
